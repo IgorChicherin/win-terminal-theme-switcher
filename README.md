@@ -1,9 +1,10 @@
 # Windows Terminal Theme Switcher 
 
 # Plugin for:
+  ```
   [Windows Auto Dark Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
   [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701?ocid=pdpshare)
-
+```
 # Usage of win-terminal-theme-switcher.exe:
 ```
  -s, --settings string   Terminal settings path (default C:\\Users\\%USERNAME%\\Local\\Packages\\Microsoft.WindowsTerminal_8wekyb3d8bbwe\\LocalState\\settings.json")
@@ -14,7 +15,6 @@
 # [Configuration](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode/wiki/How-to-add-custom-scripts) Auto dark mode 
 
 # Example Config for Windows Auto Dark Mode:
-# scripts.yaml
 ```
 Enabled: true
 Component:
