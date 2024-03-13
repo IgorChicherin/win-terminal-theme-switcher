@@ -4,8 +4,9 @@
 ![Windows Auto Dark Mode](https://github.com/IgorChicherin/win-terminal-theme-switcher/blob/master/images/auto_dark.gif)
 
 # Plugin for:
-  [Windows Auto Dark Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
-  [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701?ocid=pdpshare)
+> [Windows Auto Dark Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
+>
+> [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701?ocid=pdpshare)
 
 # Usage of win-terminal-theme-switcher.exe:
 ```
