@@ -5,7 +5,7 @@
 
 # Plugin for:
 > [Windows Auto Dark Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode)
->
+> and
 > [Windows Terminal](https://www.microsoft.com/store/productId/9N0DX20HK701?ocid=pdpshare)
 
 # Usage of win-terminal-theme-switcher.exe:
