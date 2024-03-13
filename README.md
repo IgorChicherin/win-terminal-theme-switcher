@@ -1,6 +1,6 @@
 # Windows Terminal Theme Switcher 
 
-1[Windows Terminal](https://github.com/IgorChicherin/win-terminal-theme-switcher/blob/master/images/terminal.gif)
+![Windows Terminal](https://github.com/IgorChicherin/win-terminal-theme-switcher/blob/master/images/terminal.gif)
 ![Windows Auto Dark Mode](https://github.com/IgorChicherin/win-terminal-theme-switcher/blob/master/images/auto_dark.gif)
 
 # Plugin for:
